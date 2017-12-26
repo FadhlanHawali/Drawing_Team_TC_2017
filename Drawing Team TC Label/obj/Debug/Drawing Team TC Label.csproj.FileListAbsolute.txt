@@ -1,0 +1,9 @@
+f:\KULIAH\Drawing Team TC Label\Drawing Team TC Label\bin\Debug\Drawing Team TC Label.exe.config
+f:\KULIAH\Drawing Team TC Label\Drawing Team TC Label\obj\Debug\Drawing Team TC Label.csprojResolveAssemblyReference.cache
+f:\KULIAH\Drawing Team TC Label\Drawing Team TC Label\obj\Debug\Drawing_Team_TC_Label.Form1.resources
+f:\KULIAH\Drawing Team TC Label\Drawing Team TC Label\obj\Debug\Drawing_Team_TC_Label.Properties.Resources.resources
+f:\KULIAH\Drawing Team TC Label\Drawing Team TC Label\obj\Debug\Drawing Team TC Label.csproj.GenerateResource.Cache
+f:\KULIAH\Drawing Team TC Label\Drawing Team TC Label\bin\Debug\Drawing Team TC Label.exe
+f:\KULIAH\Drawing Team TC Label\Drawing Team TC Label\bin\Debug\Drawing Team TC Label.pdb
+f:\KULIAH\Drawing Team TC Label\Drawing Team TC Label\obj\Debug\Drawing Team TC Label.exe
+f:\KULIAH\Drawing Team TC Label\Drawing Team TC Label\obj\Debug\Drawing Team TC Label.pdb
